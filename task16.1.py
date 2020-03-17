@@ -17,7 +17,6 @@ def sum_pairs(ints, s):
     return None
 
 
-
 l1 = [1, 4, 8, 7, 3, 15]
 l2 = [1, -2, 3, 0, -6, 1]
 l3 = [20, -13, 40]
